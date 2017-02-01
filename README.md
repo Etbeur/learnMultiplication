@@ -10,6 +10,9 @@ Le but de ce projet personnel est de réaliser un  site qui permattra, à ceux q
     * Possibilité d'inscription, de connexion ou d'aller à la page d'accueil.
 
 
-###Améliorations futures: La page contenant des exercices, un système d'apprentissage différent (en réflexion), un accès membre pour pouvoir gérer son compte(pseudo, password...), rajouter des opérations comme l'addition et la soustraction.
+###Améliorations futures: La page contenant des exercices, un système d'apprentissage différent (en réflexion), un accès membre pour pouvoir gérer son compte(pseudo, password...), rajouter des opérations comme l'addition et la soustraction. En constante évolution.
 
-##Techno utilisées: HTML5, CSS3(SASS), JS, PHP, MYSQL.
+##Techno utilisées: HTML5, CSS3(SASS), JAVASCRIPT, PHP, MYSQL.
+
+Pour visiter mon site -> [LearnMultiplication](http://multiplication.pe.hu)
+
